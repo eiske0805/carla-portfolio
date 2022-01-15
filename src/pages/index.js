@@ -38,9 +38,9 @@ const IndexPage = memo(({ data }) => {
   const familyName = intl.formatMessage({ id: "header.familyname" }).split("")
 
   const bgImage = {
-    ca: data.allImageSharp.nodes[2],
-    en: data.allImageSharp.nodes[1],
-    ja: data.allImageSharp.nodes[0],
+    ca: data.allImageSharp.nodes[1],
+    en: data.allImageSharp.nodes[0],
+    ja: data.allImageSharp.nodes[2],
   }
 
   return (
@@ -303,9 +303,7 @@ export default IndexPage
 
 export const query = graphql`
   query {
-    allImageSharp(
-      filter: { id: { ne: "ee5c345c-3bf3-5f4b-a345-0830a2798da5" } }
-    ) {
+    allImageSharp(sort: { order: DESC, fields: original___height }) {
       nodes {
         gatsbyImageData
       }

@@ -139,12 +139,7 @@ const IndexPage = memo(({ data }) => {
                 maxW="1200px"
                 mx="auto"
               >
-                <Heading
-                  id="work-language"
-                  as="h2"
-                  mb={{ base: 4, lg: 8 }}
-                  className="item"
-                >
+                <Heading as="h2" mb={{ base: 4, lg: 8 }} className="item">
                   {intl.formatMessage({ id: "language.title" })}
                 </Heading>
                 <FlagsIcons />

@@ -1,0 +1,32 @@
+{
+  "idiom": "en",
+  "header": {
+    "name": "Carla",
+    "familyname": "Peralta",
+    "description": "I am a Catalan translator",
+    "arrow": "down"
+  },
+  "language": {
+    "title": "Work languages",
+    "language": "Catalan is my native tongue, and I work with English, Japanese, Spanish and Catalan.",
+    "service1": "English and Japanese to Catalan or Spanish",
+    "service2": "Catalan and Spanish to Japanese (with the help of a native)"
+  },
+  "field": {
+    "title": "Fields",
+    "service": "I have worked extensively in the following fields: tourism, IT, video games, marketing, and more."
+  },
+  "career": {
+    "title": "Education and experience",
+    "career": "I hold a BA in Translation and Interpreting (Universitat Autònoma de Barcelona), and an MA in Tradumatics: Translation Technologies (Universitat Autònoma de Barcelona). I have been working as a professional freelance translator for a decade.",
+    "experience": "These are some of the companies I have been working with:",
+    "company1": "Lionbridge",
+    "company2": "Welocalize",
+    "company3": "Translated",
+    "company4": "One Hour Translation (Blend)"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "You can contact me via email or DM on Twitter."
+  }
+}

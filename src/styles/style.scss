@@ -1,0 +1,22 @@
+@import "mixin";
+@import "appear";
+@import "text-animation";
+
+.arrow {
+  @include animation(
+    $name: kf-arrow-anime,
+    $iteration-count: infinite,
+    $duration: 2.5s,
+    $timing-function: linear
+  );
+}
+@keyframes kf-arrow-anime {
+  0%,
+  50%,
+  100% {
+    transform: translateY(-15%);
+  }
+  30% {
+    transform: none;
+  }
+}

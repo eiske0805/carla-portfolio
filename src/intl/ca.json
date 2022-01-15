@@ -1,0 +1,32 @@
+{
+  "idiom": "ca",
+  "header": {
+    "name": "Carla",
+    "familyname": "Peralta",
+    "description": "Sóc una traductora catalana",
+    "arrow": "avall"
+  },
+  "language": {
+    "title": "Llengües de treball",
+    "language": "La meva llengua materna és el català, i les meves llengües de treball són l'anglès, el japonès, l'espanyol i el català.",
+    "service1": "Anglès i japonès a català o espanyol",
+    "service2": "Català i espanyol a japonès (amb l'ajuda d'una persona nativa)"
+  },
+  "field": {
+    "title": "Especialitzacions",
+    "service": "He treballat àmpliament en els següents àmbits: turisme, informàtica, videojocs i màrqueting, entre d'altres."
+  },
+  "career": {
+    "title": "Estudis i experiència",
+    "career": "Sóc llicenciada en Traducció i Interpretació (Universitat Autònoma de Barcelona), i tinc un màster en Tradumàtica: Tecnologies de la Traducció (Universitat Autònoma de Barcelona). A més, fa una dècada que em dedico a la traducció professional de manera autònoma.",
+    "experience": "Aquestes són algunes de les empreses amb les quals he treballat:",
+    "company1": "Lionbridge",
+    "company2": "Welocalize",
+    "company3": "Translated",
+    "company4": "One Hour Translation (Blend)"
+  },
+  "contact": {
+    "title": "Contacte",
+    "description": "Us podeu posar en contacte amb mi a través del correu electrònic o per missatge privat a Twitter."
+  }
+}

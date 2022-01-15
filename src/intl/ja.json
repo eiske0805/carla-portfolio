@@ -1,0 +1,32 @@
+{
+  "idiom": "ja",
+  "header": {
+    "name": "カルラ",
+    "familyname": "ペラルタ",
+    "description": "カタルーニャ人の翻訳家です。",
+    "arrow": "下へ"
+  },
+  "language": {
+    "title": "取扱言語",
+    "language": "母国語のカタルーニャ語とスペイン語に加え、日本語と英語を扱っています。",
+    "service1": "日本語の文章をカタルーニャ語とスペイン語に翻訳します。",
+    "service2": "カタルーニャ語とスペイン語の文章の日本語への翻訳も承っています。その際は、提携してる日本人のライターとの共同作業になります。"
+  },
+  "field": {
+    "title": "分野",
+    "service": "旅行、IT、ゲーム、マーケティング、サッカー等の翻訳をこれまで多く手掛けてきました。もちろん、これ以外の分野のご依頼も承ります。"
+  },
+  "career": {
+    "title": "経歴",
+    "career": "バルセロナ自治大学（Universitat Autònoma de Barcelona）にて、翻訳の学士（Translation and Interpreting）と修士（Tradumatics: Translation Technologies）を取得。以降フリーランスの翻訳家として活動しています。",
+    "experience": "以下は、これまで仕事を請け負ってきた企業の一例です。",
+    "company1": "Lionbridge",
+    "company2": "Welocalize",
+    "company3": "Translated",
+    "company4": "One Hour Translation (Blend)"
+  },
+  "contact": {
+    "title": "コンタクト",
+    "description": "お仕事のご依頼等は、メールまたは Twitter のDMでお願いします。"
+  }
+}

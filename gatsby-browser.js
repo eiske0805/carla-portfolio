@@ -1,7 +1,11 @@
-/**
- * Implement Gatsby's Browser APIs in this file.
- *
- * See: https://www.gatsbyjs.com/docs/browser-apis/
- */
+import "@fontsource/fredericka-the-great"
+import "@fontsource/new-tegomin"
 
-// You can delete this file if you're not using it
+import "./src/styles/style.scss"
+
+import { wrapRootElement as customWrapRootElement } from "./src/wrap-root-element"
+import { wrapPageElement as customWrapPageElement } from "./src/wrap-page-element"
+
+export const wrapRootElement = customWrapRootElement
+
+export const wrapPageElement = customWrapPageElement

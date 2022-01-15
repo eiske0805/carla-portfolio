@@ -41,7 +41,7 @@ module.exports = {
         // language file path
         defaultLanguage: `ca`,
         // option to redirect to `/ca` when connecting `/`
-        redirect: true,
+        redirect: false,
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

@@ -43,6 +43,9 @@ const theme = extendTheme({
   },
   styles: {
     global: {
+      html: {
+        scrollBehavior: "smooth",
+      },
       body: {
         letterSpacing: "wider",
         fontWeight: "bold",

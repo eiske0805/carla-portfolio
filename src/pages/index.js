@@ -58,7 +58,7 @@ const IndexPage = memo(({ data }) => {
                 <Flex
                   minH="100vh"
                   px={{ base: 4, md: 8, lg: 10 }}
-                  pb={{ base: 4, md: 8, lg: 10 }}
+                  pb="24"
                   pt="15vh"
                   direction="column"
                   mx="auto"
@@ -139,7 +139,12 @@ const IndexPage = memo(({ data }) => {
                 maxW="1200px"
                 mx="auto"
               >
-                <Heading as="h2" mb={{ base: 4, lg: 8 }} className="item">
+                <Heading
+                  id="work-language"
+                  as="h2"
+                  mb={{ base: 4, lg: 8 }}
+                  className="item"
+                >
                   {intl.formatMessage({ id: "language.title" })}
                 </Heading>
                 <FlagsIcons />

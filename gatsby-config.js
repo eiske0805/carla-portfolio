@@ -23,10 +23,10 @@ module.exports = {
         name: `Traductora Carla Peralta`,
         short_name: `Traductora Carla Peralta`,
         start_url: `/`,
-        background_color: `#A293C2`,
+        background_color: `#FFF3DA`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
-        theme_color: `#A293C2`,
+        theme_color: `#FFF3DA`,
         display: `minimal-ui`,
         icon: `src/images/icon.png`, // This path is relative to the root of the site.
       },

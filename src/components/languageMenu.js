@@ -52,7 +52,7 @@ const LanguageMenu = memo(({ mainColor }) => {
                       fontWeight="bold"
                       h="3rem"
                     >
-                      <Box h="1.5rem" mr="0.5rem">
+                      <Box h="1.5rem" w="1.5rem" mr="0.5rem">
                         {languageName[language]["children"]}
                       </Box>
                       {languageName[currentLocale][language]}
@@ -66,9 +66,6 @@ const LanguageMenu = memo(({ mainColor }) => {
       }}
     </IntlContextConsumer>
   )
-  //   }}
-  // </InView>
-  // )s
 })
 
 export default LanguageMenu
